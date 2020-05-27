@@ -6,4 +6,4 @@ https://openclassrooms.com/en/courses/4262331-demarrez-votre-projet-avec-python
 model.py
 https://openclassrooms.com/en/courses/4302126-decouvrez-la-programmation-orientee-objet-avec-python
 
-This codes are not perfect. It's just a training for to appropriet me basics for django.
+Ce code n'est pas parfait ou fonctionelle, il me permet juste de cerner les concepts basics pour mieux appréhender Django. C'est un entrainement et non le modèle d'un travail aboutit ^^
