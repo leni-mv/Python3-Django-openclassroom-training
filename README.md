@@ -1,4 +1,4 @@
-Préparation d'un premier prototype django en suivant les tutos suivants sur openclassroom :
+Préparation d'un premier prototype django en suivant les tutos suivants sur openclassroom, si vous êtes un professionnel je vous conseille vivement de ne regarder que model.py :
 
 file.py
 https://openclassrooms.com/en/courses/4262331-demarrez-votre-projet-avec-python
